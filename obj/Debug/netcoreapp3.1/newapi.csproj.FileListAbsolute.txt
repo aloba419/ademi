@@ -1,0 +1,4 @@
+C:\Users\Home\Documents\gggg\newapi\obj\Debug\netcoreapp3.1\newapi.csprojAssemblyReference.cache
+C:\Users\Home\Documents\gggg\newapi\obj\Debug\netcoreapp3.1\newapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Home\Documents\gggg\newapi\obj\Debug\netcoreapp3.1\newapi.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\gggg\newapi\obj\Debug\netcoreapp3.1\newapi.AssemblyInfo.cs
